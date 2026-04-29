@@ -7,10 +7,10 @@
       "bundleIdentifier": "com.settli.app",
       "developerName": "Settli AB",
       "version": "1.0.0",
-      "versionDate": "2026-04-28T00:00:00Z",
-      "downloadURL": "https://github.com/Settli-AB/settli-dist/releases/latest/download/Settli.ipa",
+      "versionDate": "2026-04-29T13:12:34Z",
+      "downloadURL": "https://github.com/Settli-AB/settli-dist/releases/download/v1.0.0+1-1777468347/Settli.ipa",
       "localizedDescription": "Settli - Swedish rental matching",
-      "iconURL": "https://via.placeholder.com/512x512.png",
+      "iconURL": "",
       "size": 0
     }
   ],
