@@ -10,8 +10,8 @@
       "versionDate": "2026-04-29T13:12:34Z",
       "downloadURL": "https://github.com/Settli-AB/settli-dist/releases/download/v1.0.0+1-1777468347/Settli.ipa",
       "localizedDescription": "Settli - Swedish rental matching",
-      "iconURL": "",
-      "size": 0
+      "iconURL": "https://settli-ab.github.io/settli-dist/ios/icon.png",
+      "size": 1
     }
   ],
   "news": []
