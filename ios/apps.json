@@ -6,9 +6,9 @@
       "name": "Settli",
       "bundleIdentifier": "com.settli.app",
       "developerName": "Settli AB",
-      "version": "1.0.5",
-      "versionDate": "2026-05-29T13:32:13Z",
-      "downloadURL": "https://github.com/Settli-AB/settli-dist/releases/download/v1.0.5+1-1780061520/Settli.ipa",
+      "version": "1.0.6",
+      "versionDate": "2026-05-29T14:13:18Z",
+      "downloadURL": "https://github.com/Settli-AB/settli-dist/releases/download/v1.0.6+1-1780063985/Settli.ipa",
       "localizedDescription": "Settli - Swedish rental matching",
       "iconURL": "https://raw.githubusercontent.com/Settli-AB/settli-dist/main/ios/assets/icons/icon.png",
       "size": 0
